@@ -10,7 +10,7 @@ Console.Write("Введите третье число: ");
 int numberc = Convert.ToInt32(Console.ReadLine());;
 int max = numbera;
 if (numberb > numbera) max = numberb;
-if (numberc > numberb) max = numberc;
+if (numberc > max) max = numberc;
 {
     Console.Write("большее число: " + max);
 }

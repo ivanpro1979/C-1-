@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP Pavilion Gamer\\Desktop\\С#L1HW\\№4\\№4.csproj",
+      "projectUniqueName": "C:\\Users\\HP Pavilion Gamer\\Desktop\\учеба\\С#L1HW\\№4\\№4.csproj",
       "projectName": "№4",
-      "projectPath": "C:\\Users\\HP Pavilion Gamer\\Desktop\\С#L1HW\\№4\\№4.csproj",
+      "projectPath": "C:\\Users\\HP Pavilion Gamer\\Desktop\\учеба\\С#L1HW\\№4\\№4.csproj",
       "packagesPath": "C:\\Users\\HP Pavilion Gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP Pavilion Gamer\\Desktop\\С#L1HW\\№4\\obj\\",
+      "outputPath": "C:\\Users\\HP Pavilion Gamer\\Desktop\\учеба\\С#L1HW\\№4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP Pavilion Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
